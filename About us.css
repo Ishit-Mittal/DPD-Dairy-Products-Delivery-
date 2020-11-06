@@ -1,0 +1,16 @@
+body {
+  background-color: #ffffff;
+}
+
+.p-1{
+  font-size: 150px;
+    position: fixed;
+  left: 30px;
+  top: 165px;
+    width: 1600px;
+}
+
+.img-1{
+  width: 2000px;
+  height: 3000px;
+}
